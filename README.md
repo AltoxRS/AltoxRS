@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Hunedoara, Romania</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact Me @: <a href="mailto:danielcela.contact@gmail.com"><strong>altox@fastmail.com</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact Me: <a href="mailto:danielcela.contact@gmail.com"><strong>altox@fastmail.com</strong></a>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Devlogging <strong>Operating Systems</strong> To Learn & Inspire
@@ -58,6 +58,9 @@
 ![OpenSUSE](https://img.shields.io/badge/OpenSUSE-73BA25?style=flat&logo=opensuse&logoColor=white)
 ![NetBSD](https://img.shields.io/badge/NetBSD-DB0000?style=flat&logo=netbsd&logoColor=white)
 ![OSDev Wiki](https://img.shields.io/badge/OSDev_Wiki-000000?style=flat&logo=wiki&logoColor=white)
+
+<img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/cadbb7d6-b5e1-4fda-a5b4-db9f8026c8ad" />
+
 
 <a href="https://github.com/CelaDaniel" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
