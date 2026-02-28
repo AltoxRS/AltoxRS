@@ -5,7 +5,9 @@
 </h1>
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Kernel, Firmware & Software Engineer</div>
-Hi, I'm Altox. I'm currently a student and have been programming since 2020. I've developed a deep connection with operating systems and low-level programming. In the past, I experimented more with front-end frameworks, but over time my passion shifted entirely toward low-level systems and back-end logic. For the future, I plan to complete my college education with a master’s in computer science while continuing to work on low-level systems.
+<div>
+  Hi, I'm <strong>Altox</strong>. I'm currently a <strong>student</strong> and have been programming since <strong>2020</strong>. I've developed a <strong>deep connection</strong> with <strong>operating systems</strong> and <strong>low-level programming</strong>. In the past, I experimented more with <strong>front-end frameworks</strong>, but over time my passion shifted entirely toward <strong>low-level systems</strong> and <strong>back-end logic</strong>. For the future, I plan to complete my college education with a <strong>master’s in computer science</strong> while continuing to work on <strong>low-level systems</strong>.
+</div>
 
 <ul>
   <li>
