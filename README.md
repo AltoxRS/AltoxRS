@@ -26,6 +26,8 @@
   </picture>
 </div>
 
+  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
+
 ![Assembly](https://img.shields.io/badge/Assembly-8A2BE2?style=flat&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -58,9 +60,6 @@
 ![OpenSUSE](https://img.shields.io/badge/OpenSUSE-73BA25?style=flat&logo=opensuse&logoColor=white)
 ![NetBSD](https://img.shields.io/badge/NetBSD-DB0000?style=flat&logo=netbsd&logoColor=white)
 ![OSDev Wiki](https://img.shields.io/badge/OSDev_Wiki-000000?style=flat&logo=wiki&logoColor=white)
-
-<img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/cadbb7d6-b5e1-4fda-a5b4-db9f8026c8ad" />
-
 
 <a href="https://github.com/CelaDaniel" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
