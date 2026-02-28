@@ -3,3 +3,5 @@
   Hi, I'm <a href="http://https://github.com/AlotxRS/"> Altox</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=altoxrs" alt="GitHub profile views counter">
 </h1>
+
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
