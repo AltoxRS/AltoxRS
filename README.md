@@ -4,7 +4,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=altoxrs" alt="GitHub profile views counter">
 </h1>
 
-## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Kernel, Firmware & Software Engineer</div>
+## <div><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Floppy%20Disk.png" width="30px" align="center" alt="Floppy Disk Emoji"/> Kernel, Firmware & Software Engineer</div>
 <div>
   Hi, I'm <strong>Altox</strong>. I'm currently a <strong>student</strong> and have been programming since <strong>2020</strong>. I've developed a <strong>deep connection</strong> with <strong>operating systems</strong> and <strong>low-level programming</strong>. In the past, I experimented more with <strong>front-end frameworks</strong>, but over time my passion shifted entirely toward <strong>low-level systems</strong> and <strong>back-end logic</strong>. For the future, I plan to complete my college education with a <strong>master’s in computer science</strong> while continuing to work on <strong>low-level systems</strong>.
 </div>
