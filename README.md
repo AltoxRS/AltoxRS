@@ -46,3 +46,5 @@
 ![OpenSUSE](https://img.shields.io/badge/OpenSUSE-73BA25?style=flat&logo=opensuse&logoColor=white)
 ![NetBSD](https://img.shields.io/badge/NetBSD-DB0000?style=flat&logo=netbsd&logoColor=white)
 ![OSDev Wiki](https://img.shields.io/badge/OSDev_Wiki-000000?style=flat&logo=wiki&logoColor=white)
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
