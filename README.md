@@ -29,3 +29,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-4E2A84?style=flat&logo=fortran&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-003366?style=flat&logo=unix&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-E95420?style=flat&logo=freebsd&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-FF6600?style=flat&logo=freertos&logoColor=white)
