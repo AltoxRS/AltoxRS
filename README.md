@@ -1,3 +1,9 @@
+![Terminal GIF](./output.gif)
+
+[![Stars](https://img.shields.io/github/stars/dbuzatto/gif-terminal?style=flat-square&color=yellow)](https://github.com/dbuzatto/gif-terminal/stargazers)
+[![Forks](https://img.shields.io/github/forks/dbuzatto/gif-terminal?style=flat-square&color=blue)](https://github.com/dbuzatto/gif-terminal/network/members)
+[![License](https://img.shields.io/github/license/dbuzatto/gif-terminal?style=flat-square)](LICENSE)
+
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="http://https://github.com/AlotxRS/"> Altox</a>!
