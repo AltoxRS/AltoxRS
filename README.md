@@ -69,7 +69,7 @@
 ![NetBSD](https://img.shields.io/badge/NetBSD-DB0000?style=flat&logo=netbsd&logoColor=white)
 ![OSDev Wiki](https://img.shields.io/badge/OSDev_Wiki-000000?style=flat&logo=wiki&logoColor=white)
 
-https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIyOTgzNTMsIm5iZiI6MTc3MjI5ODA1MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI4VDE3MDA1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiZDU1ZDZmZjE1MDBiNTViZmVjODBmZTQ1OTRkZDhkOTYyMzc4ZjY1YTA1MmIxM2U1OTgxNDVhYzhjMmI1ZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HuDxpr_e9SctnoyIFPXg0mfpxSqnF_kxOAnhn7MVg_s
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
 <a href="https://github.com/CelaDaniel" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
