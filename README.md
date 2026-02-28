@@ -9,7 +9,7 @@
   Hi, I'm <strong>Altox</strong>. I'm currently a <strong>student</strong> and have been programming since <strong>2020</strong>. I've developed a <strong>deep connection</strong> with <strong>operating systems</strong> and <strong>low-level programming</strong>. In the past, I experimented more with <strong>front-end frameworks</strong>, but over time my passion shifted entirely toward <strong>low-level systems</strong> and <strong>back-end logic</strong>. For the future, I plan to complete my college education with a <strong>master’s in computer science</strong> while continuing to work on <strong>low-level systems</strong>.
 </div>
 
-## <div><img src="github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel and places/Beach with Umbrella.png" width="30px" align="center" alt="Beach Emoji"/> Additional: </div>
+## <div><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel and places/Beach with Umbrella.png" width="30px" align="center" alt="Floppy Disk Emoji"/> Kernel, Firmware & Software Engineer</div>
 
 <ul>
   <li>
