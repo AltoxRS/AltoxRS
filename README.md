@@ -69,8 +69,6 @@
 ![NetBSD](https://img.shields.io/badge/NetBSD-DB0000?style=flat&logo=netbsd&logoColor=white)
 ![OSDev Wiki](https://img.shields.io/badge/OSDev_Wiki-000000?style=flat&logo=wiki&logoColor=white)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-
 <a href="https://github.com/CelaDaniel" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
