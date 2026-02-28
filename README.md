@@ -47,4 +47,6 @@
 ![NetBSD](https://img.shields.io/badge/NetBSD-DB0000?style=flat&logo=netbsd&logoColor=white)
 ![OSDev Wiki](https://img.shields.io/badge/OSDev_Wiki-000000?style=flat&logo=wiki&logoColor=white)
 
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+<a href="https://github.com/CelaDaniel" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
