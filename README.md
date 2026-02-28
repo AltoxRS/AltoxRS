@@ -14,12 +14,12 @@
   </picture>
 </div>
 
-![Assembly](https://img.shields.io/badge/Assembly-2D3748?style=flat&logo=assemblyscript&logoColor=white)
-![C](https://img.shields.io/badge/C-2D3748?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2D3748?style=flat&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-2D3748?style=flat&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-2D3748?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2D3748?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2D3748?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2D3748?style=flat&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2D3748?style=flat&logo=sql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-8A2BE2?style=flat&logo=assemblyscript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
