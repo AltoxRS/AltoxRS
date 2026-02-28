@@ -4,7 +4,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=altoxrs" alt="GitHub profile views counter">
 </h1>
 
-## <div><img src="https://openmoji.org/data/color/png/72/2615.png" width="30px" align="center" alt="Coffee Emoji"/> Kernel, Firmware & Software Engineer</div> 
+## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Kernel, Firmware & Software Engineer</div>
 
 <ul>
   <li>
